@@ -142,4 +142,3 @@ private static void eliminarLibro() {
         JOptionPane.showMessageDialog(null, "No se encontró ningún libro con el título especificado.");
     }
 }
-
