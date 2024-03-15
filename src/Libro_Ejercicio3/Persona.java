@@ -1,6 +1,9 @@
-package Libro_ejercicio3;
+package Libro_Ejercicio3;
 
-public abstract class Persona {
+public abstract class Persona implements Printable {
+    public void printDetails() {
+
+    }
 
         protected String nombre;
         protected int edad;
